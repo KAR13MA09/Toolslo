@@ -1,7 +1,6 @@
 ##  Công cụ này có nhiều thứ hữu ích cho bạn.
 # EDUCATIONAL PROGRAM
 
-###
 apt update
 apt upgrade
 apt install python
