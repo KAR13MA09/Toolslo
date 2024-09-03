@@ -24,4 +24,4 @@ pip install requests
 
 python main.py
 
-#TOOL CÒN LỖI BUG NHIỀU FIX HỘ CÁI HIHI
+# TOOL CÒN LỖI BUG NHIỀU FIX HỘ CÁI HIHI
