@@ -23,3 +23,5 @@ pip install socket
 pip install requests
 
 python main.py
+
+#TOOL CÒN LỖI BUG NHIỀU FIX HỘ CÁI HIHI
