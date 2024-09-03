@@ -1,5 +1,6 @@
 ##  Công cụ này có nhiều thứ hữu ích cho bạn.
-# Language
+# Language</br>
+
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
 
@@ -23,5 +24,6 @@ pip install socket
 pip install requests
 
 python main.py
+```
 
 # TOOL CÒN LỖI BUG NHIỀU FIX HỘ CÁI HIHI
